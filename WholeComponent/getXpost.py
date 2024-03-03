@@ -7,7 +7,6 @@ os.chdir(os.path.dirname(__file__))
 
 RootSettingFile = "RootSettings.json"
 RootSettings : dict[str,str] = {}
-IDcachefile = "XIDcache.txt"
 
 def get1LineTextFile(filepath : os.PathLike) -> str:
     with open(filepath,"r",encoding='utf-8') as fr:

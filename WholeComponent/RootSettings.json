@@ -1,0 +1,17 @@
+{
+    "BaseimageSrc0":"https://pbs.twimg.com/media/F7UfChmaIAAaoAv.jpg:large",
+    "BaseimageSrc1":"img/BaseimageSrc1.png",
+    "BaseimageKey":"BaseimageSrc0",
+    "ThumbnailYTid0":"fo03bKpwU8I",
+    "TargetThumbnailKey":"ThumbnailYTid0",
+    "XUserId":"spv_tsubame_",
+    "XFilterString0":"𝕨𝕖𝕖𝕜 𝕤𝕔𝕙𝕖𝕕𝕦𝕝𝕖",
+    "XFilterKey":"XFilterString0",
+    "XIdCacheFile":"XIDcache.txt",
+    "XBearerTokenFile":"X_Bearer_Token.txt",
+    "XApiKeyFile":"X_API_key.txt",
+    "XApiSecretKeyFile":"X_API_Secret_key.txt",
+    "XAccessTokenFile":"X_Access_Token.txt",
+    "XAccessTokenSecretFile":"X_Access_Token_Secret.txt",
+    "XApiResource":"https://api.twitter.com/1.1/statuses/user_timeline.json"
+}
